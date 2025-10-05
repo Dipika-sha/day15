@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    font-family: sans-serif;
+}
+
+#Name{
+    height:150px;
+    width: 100%;
+    background-color: #1e293b;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+ h1{
+font-size: 45px;
+}
+
+#Name p{
+    font-size: 16px;
+
+}
+
+#about{
+    background-color: white;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0.1);
+    border-radius: 10px;
+    margin: 10px auto;
+    min-width: 800;
+    width: 80%;
+}
+
+#edu{
+   text-align: center;
+    background-color: rgb(177, 213, 227); 
+    width: 80%;
+    margin-left: 10%;
+}
+
+#edu h2{
+   background: linear-gradient(to bottom,rgb(219,200,237) #f0f9ff);
+    text-align: center;
+    padding: 2rem;
+}
+
+#edu1{
+    background-color: white;
+    width: 70%;
+    margin: 10px auto;
+    box-shadow: 0 2px 8px rgba(0, 0, 0.1);
+    border-radius: 8px;
+    padding: 8px;
+}
+
+#skill{
+    text-align: center;
+    background-color:rgb(208, 208, 144); 
+    width: 80%;
+    margin-left: 10%;
+   font-weight: bold;
+}
+
+
+#skill h2{
+    padding: 2rem;
+    
+}
+
+#skill1{
+background-color: white;
+text-align: center;
+width: 70%;
+padding: 8px;
+border-radius: 8px;
+margin: 10px auto;
+ box-shadow: 0 2px 8px rgba(0, 0, 0.1);
+}
+
+#project{
+    background-color: rgb(219, 200, 237);
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+#project h2{
+   background: linear-gradient(to bottom,rgb(219,200,237) #f0f9ff);
+    text-align: center;
+    padding: 2rem;
+}
+
+#pro{
+ background-color: white;
+    width: 70%;
+    margin: 10px auto;
+    box-shadow: 0 2px 8px rgba(0, 0, 0.1);
+    border-radius: 8px;
+    padding: 8px;
+    text-align: center;
+}
+
+#contact{
+    text-align: center;
+    background-color: rgb(127, 230, 196);
+    width: 80%;
+    margin-left: 10%;
+}
+
+#contact h2{
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#contact1{
+    background-color: white;
+    width: 70%;
+    margin: 10px auto;
+    box-shadow: 0 2px 8px rgba(0, 0, 0.1);
+    border-radius: 8px;
+    padding: 8px;
+}
+
+#foot{
+    margin-top: 20px;
+    color: #555;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    background-color: black;
+}
